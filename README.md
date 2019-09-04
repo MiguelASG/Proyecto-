@@ -1,3 +1,3 @@
 # Proyecto
 
-# Software de ayuda de horarios 
+## Software de ayuda de horarios 
